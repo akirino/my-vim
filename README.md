@@ -1,2 +1,2 @@
-# vim
-vim
+# my-vim
+my-vim
